@@ -1,0 +1,6 @@
+C:\Projects\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.dacpac
+C:\Projects\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.dll
+C:\Projects\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.pdb
+C:\Projects\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.sqlprojAssemblyReference.cache
+C:\Projects\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.dll
+C:\Projects\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.pdb
